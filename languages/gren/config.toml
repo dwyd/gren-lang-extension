@@ -1,0 +1,4 @@
+name = "Gren"
+grammar = "gren"
+path_suffixes = ["gren"]
+line_comments = ["-- "]
